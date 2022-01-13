@@ -1,0 +1,6 @@
+{
+    "container": "genepattern/genepattern-notebook:21.12",
+    "description": "Notebook for the hands-on session for summer school on bioinformatics 2021 at Tampere University",
+    "image": "Legacy",
+    "name": "SSB2021 RNA-seq hands-on"
+}
